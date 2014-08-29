@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProActionBar</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">"这是应用的主activity，请按菜单进入不同的小例子:\n\n"
+        "1、Action Bar的home图标\n"
+        "2、Action Bar的action图标，显示和隐藏ActionBar\n"
+        "3、嵌入Search\n"
+        "4、标准Action Bar\n"
+        "5、Tabbed Action Bar\n"
+        "6、List Action Bar\n"</string>
+    <!-- 
+    <string name="hello_world">"ActionBar有三种形态：Tab、List和标准模式，请按菜单进入不同的小例子：\n\n"
+        "1、基础小例子来自Google Android的官方网站教程：http://developer.android.com/guide/topics/ui/actionbar.html"
+        "\n\n代码说明："</string>
+ -->
+	<string name="test_case_1_home">例子1：home图标</string>
+	<string name="test_case_2_action">例子2：Action图标</string>
+	<string name="test_case_3_search">例子3：Search条</string>
+	<string name="search_result">搜索结果</string>
+    <string name="test_basic">基础小例子</string>
+    <string name="standard_test">例子4：标准ActionBar</string>
+    <string name="tabbed_test">例子5：Tabbed ActionBar</string>
+    <string name="list_test">例子6：List ActionBar</string>
+    
+    
+	<string name="search_label">test_case_3_search"</string>
+	<string name="search_hint">输入搜索内容</string>
+</resources>

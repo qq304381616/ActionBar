@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<!-- 
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+ -->
+ 	<item android:id="@+id/test_case_1_home"  android:title="@string/test_case_1_home"/>
+ 	<item android:id="@+id/test_case_2_action"  android:title="@string/test_case_2_action"/>
+ 	<item android:id="@+id/test_case_3_search"  android:title="@string/test_case_3_search"/>
+ 	<item android:id="@+id/test_case_4_standard"  android:title="@string/standard_test"/>
+ 	<item android:id="@+id/test_case_5_tabbed"  android:title="@string/tabbed_test"/>
+ 
+ 	<item android:id="@+id/test_case_6_list"  android:title="@string/list_test"/> 
+	
+</menu>

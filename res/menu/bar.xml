@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_search"
+            android:title="Search"
+            android:icon="@drawable/icon_search"
+			android:showAsAction="collapseActionView|ifRoom"  
+			android:actionViewClass="android.widget.SearchView"            
+            />
+    <item android:id="@+id/menu_action_icon1"
+			android:title="Action1" 
+			android:icon="@drawable/creep001" 
+			android:showAsAction="ifRoom"/>
+    <item android:id="@+id/menu_action_icon2"
+			android:title="Action2" 
+			android:icon="@drawable/creep002" 
+			android:showAsAction="ifRoom"/>
+    <item android:id="@+id/menu_action_icon3"
+			android:title="Action3" 
+			android:icon="@drawable/creep003" 
+			android:showAsAction="ifRoom"/>
+    
+
+    
+    <item android:id="@+id/menu_action_standard"
+			android:title="标准模式" 
+			android:icon="@drawable/creep004" 
+			android:showAsAction="ifRoom"/>    
+    <item android:id="@+id/menu_action_tabbed"
+			android:title="Tabbed模式" 
+			android:icon="@drawable/creep005" 
+			android:showAsAction="ifRoom"/>    
+    <item android:id="@+id/menu_action_list"
+			android:title="List模式" 
+			android:icon="@drawable/creep006" 
+			android:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/menu_show"
+			android:title="显示ActionBar"  />
+    <item android:id="@+id/menu_hide"
+			android:title="隐藏ActionBar"  />   
+</menu>
